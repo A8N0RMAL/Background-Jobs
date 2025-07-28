@@ -126,6 +126,18 @@ public IActionResult StartRecurringUpdate()
 - Data synchronization
 - System monitoring
 
+---
+## Key Differences
+
+| Feature          | Enqueue | Scheduled | Recurring |
+|------------------|---------|-----------|-----------|
+| Execution Time   | Now     | Future    | Repeated  |
+| Runs             | Once    | Once      | Many      |
+| Persistence      | Yes     | Yes       | Yes       |
+| Unique ID        | No      | No        | Required  |
+
+---
+
 ## Testing the Endpoints
 
 1. **Enqueue Job**: POST to `/WeatherForecast/enqueue`
