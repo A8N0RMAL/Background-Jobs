@@ -1,0 +1,6 @@
+@QuartzDemo_HostAddress = http://localhost:5087
+
+GET {{QuartzDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
