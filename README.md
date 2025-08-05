@@ -1,5 +1,7 @@
 # Background Jobs in ASP.NET Core
 # 1. Background Jobs in ASP.NET Core - Using IHostedService
+<img width="820" height="600" alt="image" src="https://github.com/user-attachments/assets/6a42d907-9e0d-48da-94d8-bb4b1433ab33" />
+
 This project shows how to create background tasks in ASP.NET Core web applications using the built-in `IHostedService`.
 
 ## Why This Matters
@@ -87,6 +89,8 @@ After running the application, the background service automatically adds timesta
 ---
 
 # 2. Background Jobs in ASP.NET Core - Using Hangfire
+<img width="1201" height="572" alt="image" src="https://github.com/user-attachments/assets/7a3c17fa-2ad5-4681-a22e-15e36a15d557" />
+
 ## Solution Architecture
 This solution demonstrates an implementation of background job processing using Hangfire in an ASP.NET Core Web API application.
 
@@ -237,6 +241,8 @@ All jobs can be monitored via the Hangfire dashboard at `/hangfiredashboard`
 ---
 
 # 3. Background Jobs in ASP.NET Core - Using Quartz.NET
+<img width="851" height="411" alt="image" src="https://github.com/user-attachments/assets/8ab0fa09-3fa1-4615-8880-455502509faa" />
+
 ## **What Quartz.NET Does in ASP.NET Core**
 
 Quartz.NET is a powerful, enterprise-grade job scheduling system that enables you to:
