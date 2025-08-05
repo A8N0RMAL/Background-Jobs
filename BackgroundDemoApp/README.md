@@ -1,5 +1,5 @@
 # Background Jobs in ASP.NET Core - Using IHostedService
-![Uploading image.png…]()
+<img width="1836" height="763" alt="image" src="https://github.com/user-attachments/assets/03ff7277-a956-484f-96a8-7d9c81746943" />
 
 This project shows how to create background tasks in ASP.NET Core web applications using the built-in `IHostedService`.
 
