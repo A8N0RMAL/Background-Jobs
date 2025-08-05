@@ -1,4 +1,5 @@
 # **Quartz.NET in ASP.NET Core**
+<img width="851" height="411" alt="image" src="https://github.com/user-attachments/assets/8ab0fa09-3fa1-4615-8880-455502509faa" />
 
 ## **What Quartz.NET Does in ASP.NET Core**
 
