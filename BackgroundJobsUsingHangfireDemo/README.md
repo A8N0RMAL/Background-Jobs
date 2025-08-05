@@ -1,4 +1,6 @@
 # Hangfire Background Jobs Implementation in ASP.NET Core
+<img width="1201" height="572" alt="image" src="https://github.com/user-attachments/assets/c18f761f-3edb-420a-93d9-ee571f3f89c9" />
+
 ## Solution Architecture
 This solution demonstrates an implementation of background job processing using Hangfire in an ASP.NET Core Web API application.
 
